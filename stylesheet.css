@@ -1,5 +1,5 @@
 body{
-    background-color: lavender;
+    background-color: aqua;
 }
 
 .title{
@@ -17,6 +17,6 @@ a:hover{
 }
 
 .box{
-    border: 1px dashed red;
+    border: 10px dashed red;
     margin: 10px;
 }
