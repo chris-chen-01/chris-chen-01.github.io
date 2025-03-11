@@ -1,0 +1,22 @@
+body{
+    background-color: lavender;
+}
+
+.title{
+    color: black;
+    font-size: larger;
+}
+
+#hobbie{
+    color: green;
+    text-align: center;
+}
+
+a:hover{
+    color:greenyellow;
+}
+
+.box{
+    border: 1px dashed red;
+    margin: 10px;
+}
